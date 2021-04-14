@@ -1,0 +1,13 @@
+{
+  "name": "budgeting",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/93j6rr7y",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  }
+}

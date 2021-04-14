@@ -1,0 +1,22 @@
+{
+  "name": "budgeting",
+  "version": "0.0.203",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/93j6rr7y",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
